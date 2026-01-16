@@ -1,0 +1,17 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Reproducing Fig. 1 — VectorByte Dataset 578"
+
+format:
+  html:
+    toc: true
+    code-fold: true
+    code-summary: "Show code"
+
+execute:
+  freeze: auto
+  warning: false
+  message: false
